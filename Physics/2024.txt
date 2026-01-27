@@ -1,0 +1,1005 @@
+                                         Physics
+                                     CISCE
+                          Academic Year: 2023-2024
+                              (English Medium)
+                    Date & Time: 4th March 2024, 11:00 am
+
+
+Duration: 2h                                                                 Marks: 80
+   1. Answers to this Paper must be written on the paper provided separately.
+   2. You will not be allowed to write during the first 15 minutes.
+   3. This time is to be spent reading the question paper.
+   4. The time given at the head of this Paper is the time allowed for writing the answer
+      s.
+   5. Attempt all questions from Section A and any four questions from Section B.
+   6. The intended marks for questions or parts of questions are given in brackets [ ].
+
+             SECTION-A (40 Marks) (Attempt all questions from this Section.)
+
+Q1. Choose the correct answer to the questions from the given options. (Do not copy the
+questions. Write the correct answer only.)
+
+1.1. When a bell fixed on a cycle rings, then the energy conversion that takes place is
+______.
+
+   1. Gravitational potential energy to sound energy.
+   2. Kinetic energy to sound energy.
+   3. Sound energy to electrical energy.
+   4. Sound energy to mechanical energy.
+
+Solution
+
+When a bell fixed on a cycle rings, then the energy conversion that takes place is kinetic
+energy to sound energy.
+Explanation:
+
+This is because ringing a bell typically requires moving a bell component, like a lever or
+clapper. Mechanical forces initially move these components. This mechanical force is
+converted into kinetic energy as the clapper moves, and this kinetic energy is then
+converted into sound energy when it strikes the bell.
+
+1.2. A door lock is opened by turning the lever (handle) of length 0.2 m. If the moment of
+force produced is 1 Nm, then the minimum force required is ______.
+
+   1. 5 N
+   2. 10 N
+   3. 20 N
+   4. 0.2 N
+
+Solution
+
+A door lock is opened by turning the lever (handle) of length 0.2 m. If the moment of
+force produced is 1 Nm, then the minimum force required is 5 N.
+
+Explanation:
+
+
+
+
+1.3. A force 'F' moves a load from A to C as shown in the figure below. For the calculation
+of the work done, which of these lengths would you use as the displacement?
+
+
+
+
+   1. 3m
+
+   2. 4m
+     3. 5m
+
+     4. 7m
+
+Solution
+
+5m
+
+Explanation:
+
+As displacement in the direction of force is used.
+
+1.4. A radioactive nucleus containing 128 nucleons emits a β-particle. After β- emission
+the number of nucleons present in the nucleus will be ______.
+
+     1. 128
+
+     2. 129
+
+     3. 124
+
+     4. 127
+
+Solution
+
+A radioactive nucleus containing 128 nucleons emits a β-particle. After β- emission the
+number of nucleons present in the nucleus will be 128.
+
+Explanation:
+
+A neutron undergoes β-decay, converting it into a proton and releasing a β-particle. As a
+result, the mass number stays constant while the atomic number increases by 1.
+Therefore, there will still be 128 nucleons (the mass number).
+
+1.5. Assertion (A): Ultraviolet radiations is scattered more as compared to the microwave
+radiations.
+
+Reason (R): Wavelength of ultraviolet radiation is more than the wavelength of
+microwave radiation.
+
+     1. Both A and Rare true.
+
+     2. A is true but R is false.
+
+     3. A is false but R is true.
+   4. Both A and Rare false.
+
+Solution
+
+A is true but R is false.
+
+Explanation:
+
+Because UV radiation has shorter wavelengths than microwave radiation, it scatters
+more.
+
+1.6. When the stem of vibrating tuning fork is pressed on a table, the tabletop starts
+vibrating. These vibrations are definitely an example of ______.
+
+   1. Resonance
+
+   2. Natural vibrations
+
+   3. Forced vibrations
+
+   4. Damped vibrations
+
+Solution
+
+When the stem of vibrating tuning fork is pressed on a table, the tabletop starts
+vibrating. These vibrations are definitely an example of Forced vibrations.
+
+Explanation:
+
+This occurs because the tuning fork forces the tabletop to vibrate at its own frequency.
+
+1.7. Which of the following is a class III lever?
+
+   1. Pair of scissors
+
+   2. Wheelbarrow
+
+   3. Crowbar
+
+   4. Human forearm
+
+Solution
+
+Human forearm
+
+Explanation:
+Considering that the human forearm is an example of a class III lever. The load and the
+fulcrum are where the effort is applied.
+
+1.8. The specific resistance of a conductor depends on its ______.
+
+     1. Length
+
+     2. Material
+
+     3. Area of cross section
+
+     4. Radius
+
+Solution
+
+The specific resistance of a conductor depends on its material.
+
+Explanation:
+
+It depends on the material and is independent of the wire's dimensions, including area,
+radius, length, and form.
+
+1.9. Identify the option that displays the correct wiring with correct colour code:
+
+1.
+
+
+
+
+2.
+3.
+
+
+
+
+4.
+
+
+
+
+Solution
+
+
+
+
+Explanation:
+
+The switch is attached to the live wire, which is coloured brown on the left and blue on
+the right.
+
+1.10. The potential difference between terminals of a cell in a closed electric circuit is
+______.
+
+     1. Terminal voltage
+   2. Electro motive force
+
+   3. Voltage drop
+
+   4. None of these
+
+Solution
+
+The potential difference between terminals of a cell in a closed electric circuit is Electro
+motive force.
+
+Explanation:
+
+This is so because the potential difference between its electrodes when current is pulled
+from them is known as the terminal voltage. Because when charge flows in a circuit, it is
+always less than the e.m.f.
+
+1.11. During melting of ice at 0°C the ______.
+
+   1. Energy is released and temperature remains constant.
+
+   2. Energy is absorbed and temperature remains constant.
+
+   3. Energy is released and temperature decreases.
+
+   4. Energy is absorbed and temperature increases.
+
+Solution
+
+During melting of ice at 0°C the energy is absorbed and temperature remains constant.
+
+Explanation:
+
+The latent heat of fusion causes energy to be absorbed during ice melting at 0°C,
+maintaining a constant temperature.
+
+1.12. Linear magnification (m) produced by a concave lens is ______.
+
+   1. m < 1
+
+   2. m > l
+
+   3. m = 1
+
+   4. m = 2
+Solution
+
+Linear magnification (m) produced by a concave lens is m < 1.
+
+Explanation:
+
+Because an object appears smaller in the image created by a concave lens.
+
+1.13. A radioactive element is placed in an evacuated chamber. Then the rate of
+radioactive decay will ______.
+
+   1. Decrease
+
+   2. Increase
+
+   3. Remain unchanged
+
+   4. Depend on the surrounding temperature
+
+Solution
+
+A radioactive element is placed in an evacuated chamber. Then the rate of radioactive
+decay will remain unchanged.
+
+Explanation:
+
+The properties of the atom's nucleus, not external factors, determine an element's rate
+of radioactive decay.
+
+1.14. The graph given below shows heat energy supplied against change in temperature
+when no energy is lost to the surroundings. The slope of this graph will give:
+
+
+
+
+   1. Specific heat capacity
+
+   2. Latent heat of fusion
+   3. Latent heat of vaporization
+
+   4. Heat capacity
+
+Solution
+
+Heat capacity
+
+Explanation:
+
+Specific heat capacity of a unit mass of substance
+
+
+
+
+1.15. A block of glass is pushed into the path of the light as shown below. Then the
+converging point x will:
+
+
+
+
+   1. Move away from the slab.
+
+   2. Move towards the slab.
+
+   3. Not shift.
+
+   4. Move towards the left side of the lens.
+
+Solution
+
+Move away from the slab.
+
+Explanation:
+
+As light travelling through glass bends towards the glass slab, the point of convergence
+or focus will move away from the normal, and light will converge at a location away from
+the glass slab in the direction of the light after emerging in the air.
+Q2.
+
+2.1. (a) In the following atoms, which one is a radioisotope? Give one use of this isotope.
+
+O16, C14, N14, He4
+
+Solution
+
+It is used in biological research, agriculture, pollution control, and archaeology and so
+on.
+
+2.1. (b) Name the class of the lever shown in the picture below:
+
+
+
+
+Solution
+
+The simple machine shown in the figure is a bottle opener. It is a class II lever, as it
+always acts as a force multiplier.
+
+2.2. (a) When a stone tied to a string is rotated in a horizontal plane, the tension in the
+string provides ______ force necessary for circular motion.
+
+Solution
+
+When a stone tied to a string is rotated in a horizontal plane, the tension in the string
+provides centripetal force necessary for circular motion.
+
+2.2. (b) Work done by this force at any instant is ______.
+
+Solution
+
+Work done by this force at any instant is zero.
+
+2.3. A non uniform beam of weight 120 N pivoted at one end is shown in the diagram
+below. Calculate the value of F to keep the beam in equilibrium.
+Solution
+
+To balance the beam with a weight of 120 N, force F is applied.
+
+∴ Anticlockwise moment = Clockwise moment
+
+
+
+
+2.4. (a) Meera chose to use a block and tackle system of '9' pulleys instead of a single
+movable pulley to lift a heavy load.
+
+What is the advantage of using a block and tackle system over a single movable pulley?
+
+Solution
+
+The single movable pulley is better for the block and tackle system because the effort
+multiplies by '9' times, where the total number of the system's pulleys serves as a force
+multiplier as a result. As stated differently, she gains greater mechanical benefits.
+
+2.4. (b) Meera chose to use a block and tackle system of '9' pulleys instead of a single
+movable pulley to lift a heavy load.
+
+Why should she connect more number of pulleys in the upper fixed block?
+
+Solution
+
+In the upper fixed block, she adds extra pulleys to increase the mechanical advantage.
+2.5. Sumit does 600 J of work in 10 min and Amit does 300 J of work in 20 min. Calculate
+the ratio of the powers delivered by them.
+
+Solution
+
+Sumit: Work done, w1 = 600 J
+
+Time taken, t1 = 10 min = 600 sec
+
+
+
+
+Amit: Work done, w2 = 300 J
+
+Time taken, t2 = 20 min = 1200 sec
+
+
+
+
+2.6. 5 bulbs are connected in series in a room. One bulb is fused. It is removed and
+remaining 4 bulbs are again connected in series to the same circuit. What will be the
+effect on the following physical quantities?
+
+(Increases, Decreases, Remain Same).
+   a. Resistance
+   b. Intensity of light
+
+Solution
+
+   a. When one lightbulb is removed, the circuit's overall resistance falls because the
+      equivalent resistance in a series is equal to the sum of all the resistances.
+
+   b. More current will flow through the circuit, and the light's intensity will rise as the
+      electric circuit's resistance falls.
+
+2.7. Rohan conducted experiments on echo in different media. He observed that a
+minimum distance of 'x' meters is required for the echo to be heard in oxygen and 'y'
+meters in benzene. Compare 'x' and 'y'. Justify your answer.
+
+Speed of sound in oxygen: 340 ms-1
+
+Speed of sound in benzene: 200 ms-1
+
+Solution
+
+
+
+
+Q3.
+
+3.1. (a) In a reading glass what is the position of the object with respect to the convex
+lens used?
+Solution
+
+The object is positioned between the lens's focus and pole while using a reading glass.
+This enables the thing to be magnified.
+
+3.1. (b) In a reading glass what is the position of the object with respect to the concave
+lens used?
+
+Why can't we use the concave lens to position the object in the reading glass?
+
+Solution
+
+A concave lens is a diverging lens that constantly forms a virtual, diminished picture.
+Therefore, using it for magnification was not possible.
+
+3.2. A fuse is rated 5 A. Can it be used with a geyser rated 1540 W, 220 V Write Yes or No.
+Give supporting calculations to justify your answer.
+
+Solution
+
+Here, power of geyser is P = 1540 W
+
+Voltage, V = 220 V
+
+Now, P = VI
+
+
+
+
+Because a geyser pulls more current than the fuse can handle, a 5A fuse will blow if used
+with one. No, you cannot use a 5A fuse.
+
+3.3. State two factors affecting the coil's rotation speed in a D.C. motor.
+
+Solution
+
+The factors that affect the speed of rotation of the coil in a D.C. motor are:
+
+   a. Strength of magnetic field.
+
+   b. Number of turns in the coil.
+   c. Strength of magnetic field.
+
+   d. Area of the coil.
+
+3.4. How much heat is required to convert 500 g of ice at 0°C to water at 0°C? The latent
+heat of fusion of ice is 330 Jg-1.
+
+Solution
+
+Here, mass of ice (m) = 500 g
+
+Latent heat of ice (L) = 330 J/g
+
+Heat required (Q) = mL
+
+= 500 × 330 J
+
+= 165000 J
+
+= 165 kJ
+
+3.5. Copy and complete the nuclear reaction by filling in the blanks.
+
+
+
+
+Solution
+
+
+
+
+           SECTION-B (40 Marks) (Attempt any four questions from this Section.)
+
+Q4.
+
+4.1. The image of a candle flame placed at a distance of 36 cm from a spherical lens, is
+formed on a screen placed at a distance of 72 cm from the lens. Calculate the focal
+length of the lens and its power.
+
+Solution
+
+Object distance u = - 36 cm
+
+Image distance, v = 72 cm
+By using lens formula
+
+
+
+
+4.2. Below is an incomplete table showing the arrangement of electromagnetic spectrum
+in the increasing order of their wavelength. Complete the table:
+
+ Gamma ray X - ray UV rays Visible rays Infrared A Radio waves
+
+
+      a. Identify the radiation A.
+      b. Name the radiation used to detect fracture in bones.
+      c. Name one property common to both A and Radio waves.
+
+Solution
+
+   a. Microwaves
+
+   b. X-rays
+
+   c. Due to their long wavelengths, both microwaves and radio waves are used in
+      long-distance communication.
+4.3. (a) Why do we use red colour as a danger signal on the top of a skyscraper?
+
+Solution
+
+Since red has the longest wavelength of all the colours that make up visible light, it is
+least dispersed by atmospheric air molecules and may therefore travel farther or be seen
+more clearly from a distance.
+
+4.3. (b) The diagram below shows the path of a blue ray through the prism:
+
+   1. Calculate the critical angle of the material of the prism for blue colour.
+
+   2. What is the measure of the angle of this prism (A)?
+
+   3. Which colour should replace the blue ray, for the ray to undergo Total Internal
+      Reflection?
+
+
+
+
+Solution
+
+
+
+
+1. Here, the refracted ray PQ is normal to the surface AB of the prism (i.e., ∠r = 0°), so
+the incident ray at the point P should also be normal to the surface AB so that ∠i = 0°. At
+point Q, the angle of incidence for the ray PQ is 133° - 90° = 43°.
+
+Now this angle should be equal to the critical angle because ray PQ is refracted at 90°,
+i.e., it is refracted along QC.
+
+Hence, the critical angle of the prism is 43°.
+
+2. In ΔAPQ
+
+∠APQ + ∠PQA + ∠PAQ = 180°
+90° + 47° + ∠PAQ = 180°
+
+∠PAQ = 180° - 90° - 47°
+
+∠PAQ = 43°
+
+∴ ∠A = 43°
+
+3. The light used and its wavelength determine the angle of deviation. With a decrease in
+the light wavelength, the angle of deviation increases.
+
+Accordingly, the beam will experience total internal reflection if we swap out the blue
+light for intense light, sometimes known as indigo light.
+
+Q5.
+
+5.1.
+
+
+
+
+Solution
+5.2. (a) Light travels a distance of '10x' units in time 't1' in vacuum and it travels a
+distance of 'x' units in time 't2' in a denser medium.
+
+Using this information answer the question that follows:
+
+'Light covers a distance of '20x' units in time 't1' in diamond'. State true or false.
+
+   1. True
+
+   2. False
+
+Solution
+
+This statement is False.
+
+Reason:
+
+Because light always travels slower in a medium than it does in a vacuum. Within a
+vacuum, light travels 10x units over time 't1'. Therefore, it is impossible to travel '20x'
+units in time 't1' in a diamond.
+
+5.2. (b) Light travels a distance of '10x' units in time 't1' in vacuum and it travels a
+distance of 'x' units in time 't2' in a denser medium. Using this information answer the
+question that follows:
+
+Calculate the refractive index of the medium in terms of 't1' and 't2'.
+
+Solution
+
+Given that light travels a distance 10x units,
+
+Time taken = t1
+
+
+
+
+We know that,
+
+Refractive index of medium
+5.3. A monochromatic ray of light is incident on an equilateral prism placed at minimum
+deviation position with an angle of incidence 45° as shown in the diagram?
+
+      a. Copy the diagram and complete the path of the ray PQ.
+      b. State two factors on which the angle of deviation depends.
+Solution
+
+a.
+
+
+
+
+b. Factors on which the angle of deviation depends are:
+
+             1. Angle of incidence (i).
+             2. Material of the prism (μ).
+             3. Angle of the prism.
+             4. the colour or wavelength (λ) of light used.
+             5. refractive index.
+
+Q6.
+
+6.1. (a) Define the centre of gravity of a body.
+
+Define Centre of Gravity.
+
+Solution 1
+
+The point through which the resultant of the weights of all the particles of the body acts
+is called its centre of gravity
+
+Solution 2
+
+The centre of gravity is an imaginary location where the body's whole weight is assumed
+to be concentrated.
+6.1. (b) A hollow ice cream cone has height 6 cm.
+
+   1. Where is the position of its center of gravity from the broad base?
+   2. Will its position change when it is filled completely with honey? Write Yes or No.
+
+Solution
+
+
+
+
+6.2. Two identical marbles A and B are rolled down along Path 1 and Path 2 respectively.
+
+Path 1 is frictionless and Path 2 is rough.
+
+   a. Which marble will surely reach the next peak?
+
+   b. Along which path/s the mechanical energy will be conserved?
+
+   c. Along which path/s is the law of conservation of energy obeyed?
+Solution
+
+   a. Path 2 is rough, and Path 1 is frictionless. Because there will be no energy lost on
+      the frictionless road, marble A will undoubtedly reach the top.\
+
+   b. Total mechanical energy = kinetic energy (k) + potential energy (u)
+
+When there is no frictional force, it remains constant; hence, mechanical energy will be
+preserved along path 1.
+
+   c. Since energy cannot be created or destroyed, the law of conservation of energy
+      applies to both scenarios.
+
+6.3. (a) Copy and complete the labelled diagram connecting the two pulleys with a tackle
+to obtain Velocity Ratio= 2.
+
+
+
+
+Solution
+
+Here, velocity ratio = n (number of pulleys)
+6.3. (b) If Load = 48 kgf and efficiency is 80% then calculate:
+
+   1. Mechanical Advantage.
+
+   2. Effort needed to lift the load.
+
+
+
+
+Solution
+
+Here, load, L = 48 kgf
+
+Efficiency = 80% = 0.8
+
+
+
+
+Q7.
+
+7.1. (a) Name the waves used in SONAR.
+
+Solution
+Ultrasonic waves.
+
+7.1. (b) In the above diagram Lata stands between two cliffs and claps her hands.
+
+Determine the time taken by her to hear the first echo. Speed of sound in air 320 ms-1.
+
+
+
+
+Solution
+
+
+
+
+The closest cliff produces the first echo. However, the first cliff, or cliff A, is only 10
+meters away from the Lata, and a minimum of 17 meters is required between the cliff
+and the listener in order to hear an echo.
+
+Then, echo will be heard from Cliff B
+
+∴ Total distance travelled = 2d
+
+= 2 × 160
+
+= 320 m
+
+
+
+
+7.2. (a) Complete the following radioactive reaction:
+Solution
+
+
+
+
+7.2. (b) Uranium is available in two forms U-235 and U-238. Which of the two isotopes of
+Uranium is more fissionable?
+
+Solution
+
+Comparatively speaking, U-235 is easier to fission than U-238. This is due to the fact that
+only fast neutrons can cause the fission of U-238, whereas slow neutrons can even
+trigger the fission of U-235.
+
+7.3. In the given diagram, a vibrating tuning fork is kept near the mouth of a burette filled
+with water. The length of the air column is adjusted by opening the tap of the burette.
+
+At a length of 5 cm of the air column, a loud sound is heard
+
+
+
+
+   a. Name the phenomenon illustrated by the above experiment.
+
+   b. Why is a loud sound heard at this particular length?
+
+   c. If the present tuning fork is replaced with a tuning fork of higher frequency,
+      should the length of the air column increase or decrease to produce a loud
+      sound? Give a reason.
+Solution
+
+
+
+
+Q8.
+
+8.1. The voltage - current readings of a certain material are shown in the table given
+below:
+
+ Voltage (V) 10 V 20 V 30 V
+
+ Current (I)   2A   3A       4A
+
+
+Study the table.
+
+   a. State whether the conductor used is ohmic or non-ohmic.
+
+   b. Justify your answer.
+
+   c. State Ohm's law.
+
+Solution
+
+
+
+
+Here, the ratio is not constant, so the conductor is non-ohmic.
+8.2. Below is the diagram of a transformer:
+
+
+
+
+   a. Identify the type of transformer.
+
+   b. In this type of transformer which of the wire is thicker, the primary or the
+      secondary? Give a reason.
+
+Solution
+
+   a. Step-down transformer.
+
+   b. Due to the step-down transformer's decreased voltage, the secondary coil's wire
+      is thicker than the primary coil's. Hence, the secondary coil's current is greater
+      than the primary coil's. Thus, the secondary coil needs thick wires.
+
+8.3. Study the diagram:
+   a. Calculate the total resistance of the circuit.
+
+   b. Calculate the current drawn from the cell.
+
+   c. State whether the current through 10 Ω resistor is greater than, less than or equal
+      to the current through the 12 Ω resistor.
+
+Solution
+
+a. R1 = 10 + 6 = 16 Ω (in series)
+
+R2 = 12 + 4 = 16 Ω (in series)
+
+
+
+
+c. Because the equivalent resistance in both arms is 16 Ω, the current in the 10 Ω resistor
+will be equal to the current in the 12 Ω resistor. Thus, equal current will flow through the
+10 Ω and 12 Ω resistors as well as in both arms.
+
+Q9.
+
+9.1. 85 g of water at 30°C is cooled to 5°C by adding certain mass of ice. Find the mass of
+ice required.
+
+[Specific heat capacity of water = 4 .2 Jg-I°C-1, Specific latent heat of fusion = 336 Jg-1]
+Solution
+
+Given, for water
+
+mass (mw) = 85 g
+
+Initial temperature = 30°C
+
+Final temperature = 5°C
+
+For Ice, mass= mi
+
+Initial temperature = 0°C
+
+Final temperature = 5°C
+
+Now
+
+Heat lost by water = mw × c × Δt
+
+= 8.5 × 4.2 × (30 - 5)
+
+= 85 × 4.2 × 25
+
+= 8925 J
+
+Heat gained by ice = mi × L + mi × c × Δt
+
+= mi × 336 + mi × 4.2 × (5 - 0)
+
+= 336 mi + mi × 4.2 × 5
+
+= 336 mi + 21 mi
+
+= 357 mi
+
+By principle of calorimetry
+
+Heat lost by water = Heat gained by ice
+
+8925 = 357 mi
+
+
+
+
+= 25 g
+Hence, mass of ice required is 25 g.
+
+9.2. (a) Why does it become pleasantly warm when the lakes start freezing?
+
+Solution
+
+Water's liquid state emits heat into its surroundings as it freezes. This exothermic
+process emits heat into the environment. Because the specific latent heat of ice fusion is
+high enough, a significant amount of heat must be lost when lake water freezes,
+resulting in a nice increase in temperature.
+
+9.2. (b) Water freezes to form ice. What change would you expect in the average kinetic
+energy of the molecules?
+
+Solution
+
+The average kinetic energy of the molecules decreases as water freezes to produce ice
+because the temperature of the water molecules drops, and they hold to one another to
+form a crystal.
+
+9.3. (c) Which has more heat: 1 g ice at 0℃ or 1g water 0℃? Give reason.
+
+Which will contain more heat energy 1 g of ice at 0°C or 1 g water at 0°C?
+
+Solution 1
+
+1 g of water at 0°C has more heat than 1 g of ice at 0°C. This is because ice at 0°C
+absorbs 360 J of heat energy to convert into water at 0°C.
+
+Solution 2
+
+At 0°C, 336 J of heat energy is taken in by ice, turning it into water. Water therefore has
+higher heat energy at 0°C.
+
+9.3. (a) State one factor that affects the magnitude of induced current in an AC generator.
+
+Solution
+
+Factors on which the magnitude of induced current in an AC circuit depends:
+
+   1. Magnetic field intensity.
+
+   2. Number of turns in the coil.
+9.3. (b) Given below is a circuit to study the magnetic effect of electric current. ABCD is a
+cardboard kept perpendicular to the conductor XY. A magnetic compass is placed at the
+point P of the cardboard. P1 and P2 are the positions of the magnetic compass, before
+and after passing a current through XY respectively.
+
+
+
+
+   1. Name the rule that is used to predict the direction of deflection of the magnetic
+      compass.
+
+   2. State the direction of current in the conductor (X to Y or Y to X) when the circuit is
+      complete.
+
+   3. If resistance R is increased, then what will be the effect on the magnetic lines of
+      force around the conductor?
+
+Solution
+
+   1. Right hand thumb rule.
+
+   2. Since the compass is pointing west, the current will flow from X to Y in an
+      anticlockwise direction.
+
+   3. The amount of current flowing through the circuit will decrease if the resistance
+      increases. The magnetic field then decreases as the magnetic lines of force
+      surrounding the conductor grow less dense.
+

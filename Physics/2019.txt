@@ -1,0 +1,655 @@
+                                          ICSE Board
+                                        Class X Physics
+                                       SCIENCE Paper - I
+                                       Board Paper - 2019
+
+Time: 2 hours                                                     Maximum Marks: 80
+                         General Instructions:
+
+              Answers to this paper must be written on the paper provided separately.
+                     You will not be allowed to write during the first 15 minutes.
+                       This time is to be spent in reading the question paper.
+          The time given at the head of paper is the time allotted for writing the answers.
+      Section I is compulsory. Attend any four questions from Section II. The intended
+              marks of questions or parts of questions are given in brackets [ ].
+
+
+
+                                    SECTION - I (40 Marks)
+                                        Attempt all question from this Section.
+
+Question 1
+(a) The diagram below shows a claw hammer used to remove a nail; [2]
+
+
+
+
+(i) To which class of lever does it belong?
+      (ii) Given one more example of the same class of lever mentioned by you in (i) for which
+      the mechanical advantage is greater than one.
+
+     (b)Two bodies A and B have masses in the ratio 5:1 and their kinetic energies are in the
+     ratio 125:9. Find the ratio of their velocities. [2]
+
+(c)                                                                                [2]
+(i) Name the physical quantity which is measured in calories.
+(ii) How is calories related to the S.I. unit of that quantity?
+
+
+(d)                                                                                [2]
+(i) Define couple.
+(ii) State the S.I. unit of moment of couple.
+                                                                                                 1
+(e)                                                                                 [2]
+(i) Define critical angle.
+(ii) State one important factor which affects the critical angle of a given medium.
+
+Solution 1:
+(a) (i) Class first lever.
+(ii) Pliers.
+
+(b) (i) Let mass, kinetic energy and velocity of bodies A and B be (m A, mB), (kA, kB) and (vA, vB)
+respectively.
+         mA 5
+Given:     
+         mB 1
+       k A 125
+And       
+       kB   9
+This implies,
+ 1
+   m A (v A ) 2
+ 2                125
+                
+ 1                 9
+   m B (v B ) 2
+ 2
+                  2
+ m  v  125
+ A  A  
+ mB  vB    9
+              2
+ 5  v  125
+  A  
+ 1  vB   9
+          2
+  v  125 1 25
+ A     
+  vB   9 5 9
+    vA   25 5
+         
+    vB   9 3
+ vA : vB  5 : 3
+
+
+(c) (i) Heat energy is measured in calories.
+(ii) 1 calorie (1 cal) = 4.186 J
+
+(d) (i) Two equal and opposite parallel forces not acting along a same line which produce rotation
+is called a couple. A couple is always needed to produce rotation.
+(ii) The SI unit of the moment of couple is Newton-metre (Nm).
+                                                                                                 2
+(e) (i) The angle of incidence in the denser medium corresponding to the angle of refraction in the
+rarer medium is 90ᵒ and is called the critical angle.
+(ii) Factors affecting the critical angle: (any one)
+              1) Wavelength of light
+             2) Temperature
+Question 2
+
+(a) An electromagnetic radiation is used for photography in fog. [2]
+     (i) Identify the radiation.
+     (ii) Why is this radiation mentioned by you, ideal for this purpose?
+
+(b)                                                                                   [2]
+      (i) What is the relation between the refractive index of water with respect to air (a𝜇w) and
+      the refractive index of air with respect to water (w𝜇a).
+
+                                                                           5
+      (ii) If the refractive index of water with respect to air (a𝜇w) is     .
+                                                                           3
+Calculate the refractive index of air with respect to water (w𝜇a).
+
+(c)
+      The specific heat capacity of a substance A is 3,800 Jkg-1K-1 and that of a substance B is
+      400 Jkg-1K-1. Which of the two substances is a good conductor of heat? Give a reason for
+      your answer. [2]
+(d)
+      A man playing a flute is able to produce notes of different frequencies. If he closes the
+      holders near his mouth, will the pitch of the note produced, increase or decrease? Given a
+      reason. [2]
+(e)
+      The diagram below shows a light source P embedded in a rectangular glass block ABCD of
+      critical angle 42 . Complete the path of the ray PQ till it emerges out of the block. [Write
+      necessary angles.]      [2]
+
+
+
+
+Solution 2:
+                                                                                                     3
+(a) (i) Infrared radiation is suitable electromagnetic radiation for photography in fog.
+(ii) It is because they have low frequency, the energy associated with them is also low so they do
+not scatter much and can penetrate appreciably through it.
+
+(b)
+           w
+    w 
+           a
+a
+
+
+           a
+    a 
+           w
+w
+
+
+                1
+a  w 
+               w a
+
+
+(ii) Given:
+
+           5
+a   w 
+           3
+                 1    3
+w  a             
+               a w   5
+
+(c)
+Specific heat of substance A = 3800 Jkg-1 K-1
+Specific heat of substance B = 400 Jkg-1 K-1
+     A good conductor of heat has low specific heat and a bad conductor of heat has high
+     specific heat. Thus, substance B is a good conductor of heat.
+
+(d) If the man closes the holes in a flute near his mouth a sound of lower frequency note will be
+produced because the length of vibrating air column increase and the frequency of vibrating air
+column is inversely proportional to the length of vibrating air column.
+
+
+
+
+                                                                                                    4
+(e)The complete ray diagram with necessary angles is as follows:
+
+
+
+
+Question 3
+
+(a)                                                                                         [2]
+(i) If the lens is placed in water instead of air, how does its focal length change?
+(ii) Which lens, thick or thin has greater focal length?
+
+(b) Two waves of the same pitch have amplitudes in the ratio 1: 3. [2]
+     What will be the ratio of their:
+     (i) Intensities and (ii)Frequencies?
+
+(c) How does an increase in the temperature affect the specific resistance of a: [2]
+  (i) Metal and
+  (ii) Semiconductor?
+(d)                                                                                         [2]
+(i) Define resonant vibrations.
+      (ii) Which characteristic of sound, makes it possible to recognize a person by his voice
+      without seeing him?
+
+(e) It is possible for a hydrogen (H) nucleus to emit an alpha particle? [2]
+
+
+
+
+                                                                                                  5
+Solution 3:
+
+(a) (i) Focal length does not depend in external parameter.
+(ii) A thin lens has a greater focal length than a thick length.
+
+
+                      A1 1
+(b) (i) Same pitch:     
+                      A2 3
+Intensities, IA 2
+ I    1
+ 1 
+ I2 9
+(ii) Frequency of sound is independent of amplitude.
+Thus, f1:f2 = 1:1
+
+
+(c) (i) For metals, with increase in temperature, the specific resistance increases.
+(ii) Specific resistance of a semiconductor decreases with the increases in temperature.
+(d) (i) When the frequency of the externally applied periodic force on the body is equal to its
+natural frequency, the body begins to vibrate with an increased amplitude. Such large amplitude
+vibrations are called resonant vibrations.
+(ii) Quality of sound or Timbre.
+
+
+(e) No, it is not possible because an alpha particles consists of two protons and two neutrons.
+
+
+Question 4
+
+(a) Calculate the effective resistance across AB: [2]
+
+
+
+
+(b)                                                                                        [2]
+      (i) State whether the specific heat capacity of a substance remains the same when its state
+      changes from solid to liquid.
+      (ii) Given one example to support your answer.
+
+
+                                                                                                    6
+      (c) A magnet kept at the centre of two coils A and B is moved to and fro as shown in the
+      diagram. The two galvanometers show deflection. [2]
+
+
+
+
+      State with a reason whether:
+            x y
+            or x < y.
+            [x and y are magnitudes of deflection.]
+
+(d)                                                                                       [2]
+      (i) Why a nuclear fusion reaction is called a thermos nuclear reaction?
+      (ii) Complete the reaction:
+
+                He2  2 H1  4 He2  ........  Energy
+                3
+
+
+(e) State two ways to increase the speed of rotation of a D.C. motor. [2]
+
+
+Solution 4:
+(a) It is given that 5 and 4 in series.
+ R1  (5  4)  9
+Diagram can be simplified as follows:
+
+
+
+
+Now, 9 and 3 are in parallel.
+         9  3 27 9
+R2                
+         9  3 12 4
+Now, 8 and R2 are in series
+             9 41
+ R 3  8     10.25
+             4 4
+(b) (i) The specific heat capacity of a substance is different in its different phases.
+(ii) The specific heat capacity of water is 4200 JK-1kg-1.
+In the solid state (ice): 2100 JK-1kg-1
+In the vapour state (steam): 460 JK-1kg-1
+                                                                                                 7
+(c) x < y, because the number of turns of coil is maximum in coil B rather than in coil A.
+
+(d) (i) Nuclear fusion is not possible at normal temperature. At high temperature and due to thermal
+agitations, both nuclei acquire sufficient kinetic energy to overcome the force of repulsion between
+them when they approach each other and thus get fused.
+Thus, the nuclear fusion reaction is also called a thermonuclear reaction.
+(ii) 3 He2 2 H1 4 He2 1 H1  Energy
+
+(e) Ways to increase the speed of rotation of a DC motor:
+    1. By increasing the strength of current in the coil
+    2. By increasing the number of turns in the coil
+
+                                     SECTION II (40 Marks)
+                                     Attempt any four questions from this Section
+
+Question 5
+(a) A body of mass 10 Kg is kept at a height of 5 m. It is allowed to fall and reach the ground.
+    [3]
+    (i) What is the total mechanical energy possessed by the body at the height of 2 m
+          assuming it is a frictionless medium?
+    (ii) What is the kinetic energy possessed by the body just before hitting the ground? Take
+          g = 10m /s2.
+
+(b) A uniform meter scale is in equilibrium as shown in the diagram: [3]
+
+
+
+
+      (i)    Calculate the weight of the meter scale.
+      (ii)   Which of the following options is correct to keep the ruler in equilibrium when 40 gf
+             wt is shifted to 0 cm mark?
+                      F is shifted towards 0 cm. or
+                      F is shifted towards 100 cm.
+
+(c)   The diagram below shown a pulley arrangement: [4]
+
+
+
+
+                                                                                                     8
+     (i) Copy the diagram and mark the direction of tension on each stand of the string.
+     (ii) What is the velocity ratio of the arrangement?
+     (iii) If the tension acting on the string is T, then what is the relationship between T and
+           effort E?
+     (iv) If the free end of the string moves through a distance x, find the distance by which the
+           load is raised.
+
+Solution 5:
+(a) It is given that Mass(m) = 10 kg,
+Height(h) = 5m,
+g = 10ms-2,
+Potential Energy (U) = mgh
+ 10 10  5J
+ 500J
+(ii) According to the law of conservation of energy, the kinetic energy possessed by the body just
+before touching the ground is 500J.
+
+(b) (i) Let the weight of the meter scale by x gf and it acts at the centre of gravity (ie, 50 cm
+mark).
+Anti- clock wise moment = 40×25 gf cm
+Clockwise moment = x×20 gf cm
+When the meter scale is balanced,
+Clockwise moment = Anticlockwise moment
+ x  20  40  25
+         40  25
+x              gf
+           20
+ 50gf
+Therefore, Weight of meter scale is 50gf.
+
+(ii) F is shifted towards 0 cm.
+
+(c) (i) The diagram with direction of tension on each strand is shown below:
+                                                                                                    9
+(ii) Velocity ratio = 2
+(iii) E= T
+                                             x
+(iv) The load will be raised by a distance     .
+                                             2
+Question 6
+(a) How does the angle of deviation formed by a prism change with the
+    increase in the angle of incidence?    [3]
+    Draw a graph showing the variation in the angle of deviation with the angle of incidence at
+    a prism surface.
+
+(b) A virtual, diminished image is formed when an object is placed between
+      the optical centre and the principal focus of a lens. [3]
+      (i) Name the type of lens which forms the above image.
+      (ii) Draw a ray diagram to show the formation of the image with the above stated
+            characteristics.
+
+(c)   An object is placed at a distance of 24 cm from a convex lens of focal
+      length 8 cm.      [4]
+      (i) What is the nature of the image so formed?
+      (ii) Calculate the distance of the image from the lens.
+      (iii) Calculate the magnification of the image.
+
+Solution 6:
+   (a) (i) As the angle of incidence increases, the angle of deviation first decreases, reaches to a
+       maximum value for a critical angle of incidence, and then on further increasing the angle
+       of incidence, the angle of deviation begins to increase.
+
+
+
+
+                                                                                                 10
+(b) (i) Concave Lens.
+(ii) Ray diagram to show the formation of image ( A’B’) is give below:
+
+
+
+
+(c) (i) A real inverted and diminished image is formed.
+(ii) It is given that:
+u = -24cm, f= +8cm
+From the relation,
+1 1 1
+   
+u v f
+   1 1 1
+  
+   v u f
+   1     1
+      
+  24 8
+  1  3 1
+        
+    24     12
+Or v = 12 cm
+Therefore, the image is at a distance 12cm behind the lens.
+
+
+                           v 12     1
+(iii) Magnification (m),        
+                           u 24    2
+                                                                         11
+Negative sign signifies inverted image.
+
+
+Question 7
+(a) It is observed that during march-past we hear a base drum distinctly from
+    a distance compared to the side drums. [3]
+    (i) Name the characteristic of sound associated with the above observation.
+    (ii) Given a reason for the above observation.
+
+(b)   A pendulum has a frequency of 4 vibrations per second. An observer starts the pendulum
+      and fires a gun simultaneously. He hears the echo from the cliff after 6 vibrations of the
+      pendulum. If the velocity of sound in air is 340 m/s, find the distance between the cliff and
+      observer. [3]
+
+(c)   Two pendulums C and D are suspended from a wire as shown in the figure given below.
+      Pendulum C is made to oscillate by displacing it from its mean position. It is seen that D
+      also starts oscillating. [4]
+
+
+
+
+      (i) Name the type of oscillation, C will execute.
+      (ii) Name the type of oscillation, D will execute.
+      (iii) If the length of D is made equal to C then what difference will you notice in the
+            oscillations of D?
+      (iv) What is the name of the phenomenon when the length of D is made equal to C?
+
+Solution 7:
+(a) (i) Pitch and Timbre.
+(ii) The amplitude of vibration of medium particles is very large in the base drum compared to the
+side drum. The frequency of vibration of medium particles is also very low compared to the side
+drum.
+(b) Time taken to complete 4 vibration = 1 second
+                                       1
+Time taken to complete 1 vibration =     second
+                                       4
+Thus, Time taken to complete 6 vibrations
+
+
+
+                                                                                                   12
+   1
+     6sec onds
+   4
+  1.5sec onds
+Time = 1.5s
+Velocity = 340m/s
+Thus, Distance between the cliff and observer
+    v t
+d
+     2
+  340 1.5
+          m
+     2
+ 255m
+
+(c) (i) C will execute free or natural oscillations.
+(ii) D will execute forced oscillations.
+(iii) The natural frequency of D becomes equal to C, and therefore, there is exchange of energy
+between C and D. Pendulum D starts oscillating slowly with small amplitude, and it ultimately
+acquires the same amplitude which pendulum C initially had.
+(iv) Resonance.
+
+
+Question 8
+(a)                                                                                      [3]
+    (i) Write one advantage of connecting electrical appliance in parallel combination.
+    (ii) What characteristic should a fuse wire have?
+    (iii) Which wire in a power circuit is connected to the metallic body of the appliance?
+
+(b) The diagram below shows a dual control switch circuit connected to a
+     bulb.    [3]
+
+
+
+
+(i) Copy the diagram and complete it so that bulb is switch ON.
+(ii) Out of A & B which one is the live wire and which one is the neutral wire?
+
+
+
+                                                                                               13
+(c)                                                                                       [4]
+
+
+
+
+       The diagram above shows a circuit with the key k open. Calculate:
+       (i) the resistance of the circuit when the key k is open.
+       (ii) the current drawn from the cell when the key k is open.
+       (iii) the resistance of the circuit when the key k is closed.
+       (iv) the current drawn from the cell when the key k is closed.
+Solution 8:
+(a) (i) Each appliance gets connected to 220 V supply for its normal working.
+(ii) Fuse wire must have low melting point and its specific resistance must be more than that of
+copper or alumunium.
+(iii) Earth wire.
+
+(b) (i) The diagram below shows the bulb in switched ON mode:
+
+
+
+
+(ii) A is live wire, B is neutral wire.
+
+(c) When the key k is open:
+
+
+
+
+                                                                                                   14
+Resistance (R1) of the circuit   5  0.5   5.5
+
+(ii) When key is closed:
+
+2 and 3 are in series and their equivalent resistance  (2  3)  5
+5 and 5 are in parallel
+ 1 1 1 11 2
+               
+Rp 5 5        5     5
+      5
+Rp       2.5
+      2
+Resistance of circuits (R2) when key k is closed
+ (R p  0.5)
+ (2.5  2.5)
+ 3.0
+
+(iv) Current (I2) drawn when key k is closed
+   V 3.3
+          A  1.1A
+   R2    3
+
+Question 9
+(a)                                                                                      [3]
+    (i) Define Calorimetry.
+    (ii) Name the material used for making a Calorimeter.
+    (iii) Why is a Calorimeter made up of thin sheets of the above material answered in (ii)?
+(b)
+    The melting point of naphthalene is 80 C and the room temperature is 30°C. A sample of
+    liquid naphthalene at 100 C is cooled down to the room temperature.
+    Draw a temperature time graph to represent this cooling. In the graph, mark the region
+    which corresponds to the freezing process. [3]
+
+(c)
+       104 g of water at 30 C is taken in a calorimeter made of copper of mass 42g. When a
+       certain mass of ice at 0 C is added to it, the final temperature of the mixture after the ice
+       has melted, was found to be 10 C. Find the mass of ice added.
+       [Specific heat capacity of water = 4.2 J g-1 oC-1; Specific latent heat of fusion of
+                                                                                                       15
+      ice = 336Jg-1; Specific heat capacity of copper = 0.4 J g-1 oC-1] [4]
+
+Solution 9:
+
+(a) (i) The measurement of the quantity of heat is called calorimetry.
+(ii) Copper.
+(iii) Calorimeter made up of thin sheets of copper because copper is a good conductor of heat, the
+vessel acquires the temperature of its contents quickly. Copper also has low specific heat;
+therefore, a small amount of energy is needed to acquire that temperature.
+
+(b) (i) BC represents the freezing process in the below graph:
+
+
+
+
+(c) It is given that
+mw = 104g,
+Tw = 30oC
+mc = 42 g,
+T = 10oC
+mi = ?
+ Bt calorimerter,
+Heat lost = Heat gained
+m w Sw (t w  T)  m cSc (Tw  T)  m i   m iSw (T  Ti )
+ (104)(4.2)(30  10)  (42)(0.4)(30  10)  mi (336)  mi (4.2)(10  0)
+       (104)(4.2)(20)  (42)(0.4)(20)
+ mi 
+                 (336  42)
+ mi  24g
+
+Question 10
+(a) Draw a neat labeled diagram of an A.C. generator. [3]
+
+(b)                                                                                        [3]
+      (i)   Define nuclear fission.
+      (ii)  Rewrite and complete the following nuclear reaction by filling in the atomic number
+            of Ba and mass number of Kr:
+       92 U  0 n  .... Ba  36 Kr  3 0 n  Energy
+      235     1    144        ....      1
+
+
+      (c)
+
+                                                                                               16
+     The diagram below shows a magnetic needle kept just below the conductor AB which is
+     kept in North South direction. [4]
+
+
+
+
+(i) In which direction will the needle deflect when the key is closed?
+(ii) Why is the deflection produced?
+       (iii) What will be the change in the deflection if the magnetic needle is taken just above
+             the conductor AB?
+       (iv) Name one device which work on this principle.
+Solution 10:
+(a) The diagram of A.C. generator is shown below:
+
+
+
+
+(b) (i) Nuclear fission is the process in which a heavy nucleus is split into two light nuclei of
+nearly the same size, by bombarding it with slow neutrons.
+      92 U  0 U  56 Br  36 Kr  3 0 n  Energy
+(ii) 235     1     144     89        1
+
+
+
+
+(c) (i) Needle deflects towards the east.
+(ii) On passing the current in the wire AB, a magnetic field is produced around it and the
+magnetic needle experiences a torque in this magnetic field, so it deflects to align itself in the
+direction of the magnetic field at that point.
+(iii) Needle deflects towards the West.
+(iv) Electric motor
+
+
+
+
+                                                                                                     17
+

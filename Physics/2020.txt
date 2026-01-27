@@ -1,0 +1,221 @@
+                           ICSE-2020
+                            Grade 10
+                            PHYSICS
+Answers to this Paper munt be written on the paper provided
+separately
+You will not be allowed to write during the first 15 minutes.
+This time is to he spent in reading the Question Paper.
+The time green at the head of this Paper is the time allowed for
+writing the answers
+Section I is compulsory Attempt any four questions. from
+Section II.
+The intended marks for questions or parts of question , are given
+in brackets [ ].
+                    SECTION I (40 Marks)
+Attempt all questions from this Section.
+Question 1
+(a) (i) Define moment of force
+    (ii) Write the relationship between the SI and CGS unit of
+       moment of force.
+(b) Define a kilowatt hour. How is it related to joule?
+(c) A satellite revolves round a planet in a circular orbit.
+   What is the work done by the satellite at any instant? Give
+   a reason.
+(d) (i) Identify the class of the lever shown in the diagram
+        below:
+
+
+
+
+    (ii) How is it possible to increase the M.A of the above
+     lever without increasing its length"'
+ (e) Give one example of each when:
+    (i) Chemical energy chasers into electrical energy.
+    (ii) Electrical energy changes into sound energy
+ Question 2
+(a) A crane “A” lifts a heavy load in 5 seconds. Whereas another
+    crane “B” does the same work in 2 seconds. Compare the
+    power of crane “A” to that of crane “B”
+(b) A ray of light falls normally on a rectangular glass slab.
+    Draw a ray diagram showing the path of the ray till it
+    emerges out of the slab
+(c) Complete the path of the monochromatic light ray AB
+     incident on the surface PC) of the equilateral glass prism
+     PQR till it emerges out of the prism due to refraction.
+
+
+
+
+(d) Where should an object be placed in front of a convex lens
+    in order to get :
+   (i) an enlarged real image
+   (ii) enlarged virtual image?
+(e) A pond appears to be 2.7 m deep. If the refractive index of
+             4
+    water is 3 find the actual depth of the pond
+
+Question 3
+(a) The wave lengths for the light of red and blue colours
+     and nearly 7.8 x 10-7 and 4.8 x 10-7 m respectively.
+    (i) Which colour has the greater speed in a vacuum?
+    (ii) Which colour has a greater speed in glass?
+(b) Draw a graph between displacement from mean position and
+    lime for • body executing free vibration in a vacuum
+(c) A sound save travelling in water has wavelength 0.4
+    m Is this vase audible in air? (The speed of sound in
+   water = 1400 ms-1
+(d) Why does stone lying in the sun get heated up much more \
+    than water lying for the same duration of time?
+(e) Why is it not advisable to use a piece of copper wire as fuse
+    wire in an electric circuit?
+Question 4
+(a) Calculate the total resistance across AB :
+
+
+
+
+(b) Two metallic blocks P and Q has mg masses in ratio 2:1 arc
+   supplied with the same amount of heat If their temperatures rise
+    by same degree. compare their specific heat capacities.
+(c) When a current carrying conductor is placed in a magnetic
+    field. it experiences a mechanical force. What should be the
+    angle between the magnetic field and the length of the
+    conductor so that the force experienced is:
+     (i) Zero
+     (ii) Maximum ?
+(d) A nucleus 84X202 of an element emits an alpha particle
+    followed by a beta particle. The final nucleus is aYb Find a
+   and b
+(e) The diagram below. shows a loop of wire carrying current
+     I:
+
+
+
+
+  (i) What is the magnetic natant) of the loop that (aces us'
+  (ii)With respect to the diagram how can we increase the
+    strength of the magnetic field produced b) this loop?
+                    SECTION II (4 Marks)
+Attempt any question from this Section
+Question 5
+(a) The figure below shows a simple pendulum of mass 200 g. It
+   is displaced from the mean position A to the extreme position
+   B. The potential energy at the position A is Zero. At the
+   position B the pendulum bob is raised by 5 m.
+  (i) What is the potential energy of the pendulum at the
+        position B?
+  (ii) What is the total mechanical energy at point C?
+  (iii) What is the speed of the bob at the position A when
+        released from B? (Take g = 10 ms-2 and that is no loss
+        of energy.)
+(b) (i) With reference to thy direction of action how does a
+    centripetal force differ from a centrifugal force during
+    uniform circular motion.
+      (ii) Is centrifugal force the form of reaction of centripetal
+      force?
+      (iii) compare the magnitude of centripetal and centrifugal
+      force
+(c) A block and tackle system of pulleys has velocity ration 4.
+    (i) Draw a neat Labelled dare of the system indicating
+    clearly the points of appliance, and direction of load and
+    effort
+    (ii) What will be its V.R if the weight of the movable block
+      is doubled ?
+Question 6
+(a) A drive in water looks obliquely at an object AB in air
+    (i) Dose the object appear taller, shorter or of the same size to
+    the diver ?
+    (ii) Show the path of two rays AC & AD starting from the tip
+    of the object as it travels towards the diver in water and hence
+    obtain the image of the object
+(b) complete the path of the ray AB though the glass prism in PQR
+    till it emerges out of the prism. Given the critical angle of the
+    glass as 42o
+
+
+
+
+ (c) A lens of focal length 20 cm forms an inserted image at a
+   distance 60 cm from the lens.
+      (i) Identify the lens
+     (ii) How fax is the lens present in front of the object'
+     (iii) Calculate the magnification of the image
+
+Question 7:
+(a) Give reasons for the following
+    During the day:
+     (i) Clouds appear white
+      (ii) Sky appears blue.
+(b) (i) Name the system which enables us to locate underwater
+      objects by transmitting ultrasonic wares and detecting the
+      reflecting impulse.
+    (ii) What are acoustically measurable quantities related to pitch
+        and loudness?
+ (c) (i) When a tuning fork (Vibrating) is held close to ear, one hears
+     a faint hum. The same (vibrating tuning fork) is held such that as
+     stern is in contact with the table surface, then one hears a loud
+     sound Explain
+    (ii) A man standing in from of a vertical cliff fires a gun He hears
+     the echo after 3.5 seconds. On moving closer to the cliff by 84 m,
+     he hears the echo after 3 seconds. Calculate the distance of the
+     cliff from the initial position of the man
+Question 8
+The diagram below shows the core of a transformer and its input
+and output Connections
+
+
+
+
+(i) state the material used for the core
+(ii) Copy and complete the diagram of the transformer by drawing
+input and output coils
+ (b) (i) what are superconductors?
+    (ii) Calculate the current drawn by an appliance rated 110 W,
+       220 V when connected across 220 V supply.
+       (iii) Name a substance whose resistance decreases with the
+       increase in temperature.
+(c)
+
+
+
+
+  The diagram above shows three resistors connected across a
+  cell of e.m.f. 1.8 V and internal resistance Calculate
+      (i) Current through 3 Ω resistor.
+     (ii) The internal resistance r.
+Question. 9
+(a) (i) Define heat capacity of a substance.
+    (ii) Write the SI unit of heat capacity.
+    (iii) What is the relationship between heat capacity and specific
+          heat capacity of a substance?
+
+(b) The diagram below shows the change of phases of a
+    substance o n a temperature vs time graph on heating the
+    substance at a constant rate
+   (i) Why is the slope of CD less than slope of AB'
+   (ii)What is the boiling and melting point of the substance?
+(c) A piece of ice of mass 60 g is dropped into 140 g of
+   water at 50oC. Calculate the final temperature of water
+   when all the ice has melted. (Assume no heat is lost to the
+   surrounding)
+   Specific heat capacity of water = 4.2 jg-1k-1
+   Specific latent heat of fusion of ice w =336jg-1
+
+Question 10
+   (a) (i) Draw a neat labeled diagram of a d.c. motor.
+        (ii) Write any one use of a d c. motor
+    (b) (i) Differentiate between nuclear fusion and nuclear
+           fission.
+       (ii) Slate one safety precaution in the disposal of
+           nuclear waste.
+   (c) An atomic nucleus A is composed of 84 protons and
+      128 neutrons. The nucleus A emits an alpha particle and
+ is transformed into a nucleus B.
+(i) What is the composition of B?
+(ii) The nucleus B emits a beta particle and is
+     transformed into a nucleus C What is the composition
+     of C?
+(iii) What is mass number of the nucleus A?
+(iv) Does the composition of C change if it emits gamma
+     radiations?
+
