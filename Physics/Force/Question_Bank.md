@@ -12,7 +12,7 @@
 ### Question 1a (2 Marks)
 The diagram below shows a claw hammer used to remove a nail:
 
-![Claw Hammer Lever Diagram](claw_hammer_lever.png)
+<img src="claw_hammer_lever.png" width="450" alt="Claw Hammer Lever Diagram">
 
 (i) To which class of lever does it belong?
 
@@ -30,7 +30,7 @@ The diagram below shows a claw hammer used to remove a nail:
 ### Question 5b (3 Marks)
 A uniform meter scale is in equilibrium as shown in the diagram:
 
-![Meter Scale Equilibrium](meter_scale_equilibrium.png)
+<img src="meter_scale_equilibrium.png" width="500" alt="Meter Scale Equilibrium">
 
 (i) Calculate the weight of the meter scale.
 
@@ -43,7 +43,7 @@ A uniform meter scale is in equilibrium as shown in the diagram:
 ### Question 5c (4 Marks)
 The diagram below shows a pulley arrangement:
 
-![Block and Tackle Pulley System](block_tackle_pulleys.png)
+<img src="block_tackle_pulleys.png" width="400" alt="Block and Tackle Pulley System">
 
 (i) Copy the diagram and mark the direction of tension on each strand of the string.
 
@@ -67,7 +67,7 @@ The diagram below shows a pulley arrangement:
 ### Question 1d (2 Marks)
 (i) Identify the class of the lever shown in the diagram below:
 
-![Class II Lever](class_ii_lever.png)
+<img src="class_ii_lever.png" width="450" alt="Class II Lever">
 
 (ii) How is it possible to increase the M.A. of the above lever without increasing its length?
 
@@ -96,7 +96,7 @@ The relation between CGS and S.I. unit of moment of force is:
 ### Question 11 (1 Mark)
 The diagram below shows the balanced position of a metre scale.
 
-![Balanced Meter Scale](balanced_meter_scale_40.png)
+<img src="balanced_meter_scale_40.png" width="500" alt="Balanced Meter Scale">
 
 Which one of the following diagrams shows the correct position of the scale when it is supported at the centre?
 
@@ -128,7 +128,7 @@ A single fixed pulley is used because:
 ### Question 16 (1 Mark)
 In the diagram shown below, the velocity ratio of the arrangement is:
 
-![Pulley System VR=2](fixed_movable_pulley.png)
+<img src="fixed_movable_pulley.png" width="350" alt="Pulley System VR=2">
 
 (a) 1
 (b) 2
@@ -161,7 +161,7 @@ State one advantage of this pulley.
 ### Question 2(iii) (2 Marks)
 The diagram shows wheel O pivoted at point A. Three equal forces F₁, F₂ and F₃ act at point B on the wheel.
 
-![Wheel with Forces](wheel_forces_moment.png)
+<img src="wheel_forces_moment.png" width="400" alt="Wheel with Forces">
 
 (a) Which force will produce maximum moment about A?
 
@@ -186,7 +186,7 @@ A block and tackle system of pulleys has velocity ratio 4.
 ### Question 6(ii) (3 Marks)
 A metre scale of weight 50 gf can be balanced at 40 cm mark without any weight suspended on it.
 
-![Non-uniform Meter Scale](non_uniform_meter_scale.png)
+<img src="non_uniform_meter_scale.png" width="500" alt="Non-uniform Meter Scale">
 
 (a) If this ruler is cut at its centre then state which part [0 to 50 cm or 50 to 100 cm] of the ruler will weigh more than 25 gf?
 
@@ -217,14 +217,14 @@ Which of the following is a class III lever?
 ### Question 2.1(b) (1 Mark)
 Name the class of the lever shown in the picture below:
 
-![Bottle Opener](bottle_opener_lever.png)
+<img src="bottle_opener_lever.png" width="400" alt="Bottle Opener">
 
 ---
 
 ### Question 2.3 (2 Marks)
 A non-uniform beam of weight 120 N pivoted at one end is shown in the diagram below. Calculate the value of F to keep the beam in equilibrium.
 
-![Non-uniform Beam](non_uniform_beam.png)
+<img src="non_uniform_beam.png" width="500" alt="Non-uniform Beam">
 
 ---
 
@@ -245,7 +245,7 @@ Why should she connect more number of pulleys in the upper fixed block?
 ### Question 6.3(a) (2 Marks)
 Copy and complete the labelled diagram connecting the two pulleys with a tackle to obtain Velocity Ratio = 2.
 
-![Two Pulleys VR=2](fixed_movable_pulley.png)
+<img src="fixed_movable_pulley.png" width="350" alt="Two Pulleys VR=2">
 
 ---
 
@@ -295,7 +295,7 @@ Akash takes a uniform metre scale and suspends a weight of 2 N at one end 'X', a
 ### Question 6(ii) (3 Marks)
 Three levers X, Y, Z of equal lengths are shown in the diagram.
 
-![Three Class I Levers](three_levers_xyz.png)
+<img src="three_levers_xyz.png" width="450" alt="Three Class I Levers">
 
 (a) Which class of lever do these belong to?
 
@@ -306,7 +306,7 @@ Three levers X, Y, Z of equal lengths are shown in the diagram.
 ### Question 6(iii) (4 Marks)
 Richa weighing 40 kgf leaves point P on her skateboard and reaches point Q on the ground with velocity 10 ms⁻¹.
 
-![Skateboard Ramp](skateboard_ramp.png)
+<img src="skateboard_ramp.png" width="450" alt="Skateboard Ramp">
 
 Calculate:
 (a) the kinetic energy of Richa at point Q
@@ -336,7 +336,7 @@ A submarine in the sea sends ultrasonic ping and a stopwatch is started simultan
 ### Question 2(ii)(a) (1 Mark)
 What is the position of the centre of gravity of a triangular lamina?
 
-![Centre of Gravity of Triangle](triangle_centre_gravity.png)
+<img src="triangle_centre_gravity.png" width="350" alt="Centre of Gravity of Triangle">
 
 ---
 
@@ -355,7 +355,7 @@ Define the centre of gravity of a body.
 ### Question 6.1(b) (2 Marks)
 A hollow ice cream cone has height 6 cm.
 
-![Hollow Ice Cream Cone](hollow_cone_cg.png)
+<img src="hollow_cone_cg.png" width="300" alt="Hollow Ice Cream Cone">
 
 1. Where is the position of its center of gravity from the broad base?
 2. Will its position change when it is filled completely with honey? Write Yes or No.
@@ -367,7 +367,7 @@ A hollow ice cream cone has height 6 cm.
 ### Question 2(ii) (2 Marks)
 A non-uniform kite is hanging freely from the branch of a tree as shown. Study the figure and answer the following:
 
-![Kite Hanging from Tree](kite_cg.png)
+<img src="kite_cg.png" width="350" alt="Kite Hanging from Tree">
 
 (a) Fill in the blank.
     __________ (P, Q, R or S) is the most probable position of its centre of gravity.
@@ -392,7 +392,7 @@ A satellite revolves around a planet in a circular orbit. What is the work done 
 ### Question 5b (3 Marks)
 (i) With reference to the direction of action, how does a centripetal force differ from a centrifugal force during uniform circular motion?
 
-![Uniform Circular Motion Forces](circular_motion_forces.png)
+<img src="circular_motion_forces.png" width="450" alt="Uniform Circular Motion Forces">
 
 (ii) Is centrifugal force the reaction of centripetal force?
 
